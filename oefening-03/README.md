@@ -3,7 +3,7 @@ Maak de preview van het flex-box model na.
 * de body heeft een max-width van 1000px en staat gecentreerd (gebruik `margin: 0 auto`) 
 * het lettertype over de gehele pagina is `Franklin Gothic Medium`,...&#x20; 
 * voorzie een `main` met daarin 10 figures met met daarin telkens een afbeelding
-* gebruik [Picsum.photos](https://picsum.photos) voor de foto's. Zorg voor foto's van 300x300px.
+* gebruik [Picsum.photos](f) voor de foto's. Zorg voor foto's van 300x300px.
 * geef de img een breedte van 100% van het figure element. 
 * voorzie elke figure van een figcaption (foto 1, foto 2, foto 3, ...)
 * zet nav en main in een flexbox.
