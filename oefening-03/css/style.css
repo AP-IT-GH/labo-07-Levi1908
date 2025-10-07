@@ -1,0 +1,36 @@
+body{
+    max-width: 1000;
+    margin: 0 auto;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,'&#x20';
+}
+
+.item-container:nth-child(1){
+    display: flex;
+
+    justify-content: center;
+}
+
+a{
+    padding: 10px;
+}
+
+.item-container:nth-child(2){
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(/labo-07-Levi1908/oefening-03/images/achtergrond.png);
+    justify-content: center;
+}
+
+.item{
+    flex-basis: 30%;
+    padding: 1rem;
+}
+
+footer{
+    position: sticky;
+    bottom: 0;
+
+    background-color: white;
+    text-align: center;
+}
