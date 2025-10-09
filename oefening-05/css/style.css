@@ -146,18 +146,7 @@ a {
   color: #232226;
 }
 
-  /*--- Flex ---*/
 
-.portfolio{
-    display: flex;
-    flex-wrap: wrap;
-
-    background-color: rgb(240,240,240);
-}
-
-.item{
-  flex-basis: 432px;
-}
 
 blockquote {
   width: 100%;
@@ -209,5 +198,3 @@ footer p, footer p a {
     padding: 2rem 0 2rem 0;
     text-align: center;
   }
-
-

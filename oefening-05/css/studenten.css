@@ -1,0 +1,23 @@
+/*--- Flex ---*/
+
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+figure
+{
+    display: flex;
+    flex-direction: column;
+
+    margin: 10px;
+}
+
+main img
+{
+    width: 100%;
+    padding: 0 1rem 1rem 0;
+}
+.item{
+    flex-basis: 432px;
+}
